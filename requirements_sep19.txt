@@ -1,4 +1,4 @@
-added another line
+removed another line 2
 access-parser==0.0.3
 acora==2.2
 adal==1.2.7
@@ -302,3 +302,5 @@ yapf==0.30.0
 zipp==0.6.0
 zope.interface==4.6.0
 teradatasql
+added package1
+added package2
