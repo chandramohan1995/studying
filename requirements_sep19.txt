@@ -302,11 +302,4 @@ yapf==0.30.0
 zipp==0.6.0
 zope.interface==4.6.0
 teradatasql
-added package1
-added package2
-added package 3
-added package 4
-adding from personal lp
-added 
-added1
-adding in kaushik_new
+
